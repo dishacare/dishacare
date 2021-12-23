@@ -1,0 +1,285 @@
+<t name="Homepage" t-name="website.homepage1">
+  <t t-call="website.layout">
+    <t t-set="pageName" t-value="'homepage'"/>
+    <div id="wrap" class="oe_structure oe_empty">
+      <section class="s_banner o_colored_level s_parallax_no_overflow_hidden o_cc o_cc4 o_full_screen_height pt256 oe_img_bg o_bg_img_center" data-scroll-background-ratio="0" data-snippet="s_banner" data-name="Banner" style="position: relative; background-image: url(&quot;/web/image/345-79b37bbe/Street%20Art%20Magazine%20%283%29.png&quot;);" data-original-title="" title="" aria-describedby="tooltip236543" data-oe-shape-data="{&quot;shape&quot;:&quot;web_editor/Origins/14_001&quot;,&quot;flip&quot;:[]}" data-original-id="344" data-original-src="/web/image/344-852e12bc/Street%20Art%20Magazine%20%283%29.png" data-mimetype="image/png" data-resize-width="1483">
+        <div class="o_we_shape o_web_editor_Origins_14_001"/>
+        <div class="o_container_small">
+          <div class="row s_nb_column_fixed" data-original-title="" title="" aria-describedby="tooltip404646">
+            <div class="h-100 o_colored_level col-lg-11 pt240 pb192" data-name="Box" style="" data-original-title="" title="" aria-describedby="tooltip766471">
+              <h1 style="text-align: center;">
+                <span style="font-size: 36px;">
+                  <font style="color: rgb(148, 5, 93); font-size: 24px;">&amp;nbsp; &amp;nbsp;Your way to Accessible and Affordable Accomodation.</font>
+                </span>
+              </h1>
+              <p class="lead">
+                <br/>
+              </p>
+              <a class="mb-2 btn btn-primary" href="/contactus" data-original-title="" title="">
+        Sign up</a>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_text_block o_cc o_cc4 o_colored_level pb16 pt24" data-snippet="s_text_block" data-name="Text" style="background-image: none;">
+        <div class="s_allow_columns container">
+          <p>
+            <br/>
+          </p>
+        </div>
+      </section>
+      <section class="s_text_image pb0 o_colored_level pt56" data-snippet="s_text_image" data-name="Text - Image" style="background-image: none; position: relative;">
+        <div class="container">
+          <div class="row align-items-center">
+            <div class="col-lg-6 pt16 pb16 o_colored_level" data-original-title="" title="" aria-describedby="tooltip548866">
+              <h2 style="text-align: center;">Our Mission</h2>
+              <p style="text-align: center;">
+                <i style="font-size: 24px;">We are Disha Stay Network<b/>, dedicated to making your stay affordable and flexible. With too many choices of stay,&amp;nbsp;we offer you &amp;nbsp;support, cheaper rates and flexibility with booking dates&amp;nbsp;that will amaze you with their&amp;nbsp;<b style="font-size: 24px;">thoroughness and thoughtfulness</b>.</i>
+              </p>
+              <p style="text-align: center;">
+                <i style="font-size: 24px;">At Disha&amp;nbsp;<b/>our team&amp;nbsp;is devoted to finding the best solutions for your stay&amp;nbsp;plans while taking care of your&amp;nbsp;loved ones who were going through cancer treatment.</i>
+              </p>
+              <p>
+                <i>
+                  <br/>
+                </i>
+              </p>
+              <p>
+                <a href="#" class="mb-2 btn btn-primary" data-original-title="" title="">
+                  <i style="font-size: 24px;" data-original-title="" title="" aria-describedby="tooltip555740">Learn more(Brochure)</i>
+                </a>
+              </p>
+            </div>
+            <div class="o_colored_level col-lg-6 pt0 pb0">
+              <img src="/web/image/350-950e75df/CoracaoMaos.svg" class="img img-fluid mx-auto" alt="" data-shape="web_editor/solid/sld_square_1" data-original-mimetype="image/png" data-file-name="CoracaoMaos.svg" data-shape-colors=";o-color-3;;;" loading="lazy" data-original-title="" title="" aria-describedby="tooltip708379" data-original-id="304" data-original-src="/web/image/304-5a2be7db/CoracaoMaos.png" data-mimetype="image/svg+xml" data-resize-width="690"/>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_title pb40 pt72" data-vcss="001" data-snippet="s_title" data-name="Title">
+        <div class="container s_allow_columns">
+          <h1 style="text-align: center;">
+            <font style="font-size: 62px;">Your Site Title</font>
+          </h1>
+        </div>
+      </section>
+      <section class="s_three_columns o_cc o_cc3 pt0 pb72 o_colored_level" data-vcss="001" data-snippet="s_three_columns" data-name="Columns" style="background-image: none;">
+        <div class="container">
+          <div class="row d-flex align-items-stretch">
+            <div class="col-lg-4 s_col_no_bgcolor pt16 pb16">
+              <div class="card bg-white h-100">
+                <img class="card-img-top" src="/web/image/349-2df71a10/ef91352b975bd308bf236fd2bd79b1c6f0b081de.jpg" alt="" loading="lazy" data-original-title="" title="" aria-describedby="tooltip244218" data-original-id="348" data-original-src="/web/image/348-754a15e8/ef91352b975bd308bf236fd2bd79b1c6f0b081de.jpg" data-mimetype="image/jpeg" data-resize-width="690"/>
+                <div class="card-body">
+                  <span class="text-600 font-weight-bold">$295,000</span>
+                  <h3 class="card-title">
+        House On The Hill
+    </h3>
+                  <p class="card-text">
+        Waste no time in viewing this truly stunning property. The property's surroundings really set it apart, offering idyllic sea views overlooking a park.
+    </p>
+                  <a href="#" class="btn btn-primary mb-0">View details</a>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 s_col_no_bgcolor pt16 pb16">
+              <div class="card bg-white h-100">
+                <img class="card-img-top" src="/web/image/website.s_three_columns_default_image_2" alt="" loading="lazy"/>
+                <div class="card-body">
+                  <span class="text-600 font-weight-bold">$1,295,000,000</span>
+                  <h3 class="card-title">
+        Moutain View
+    </h3>
+                  <p class="card-text">
+        The house is surrounded by garden terraces that create unique spaces and an intimate ambience. With no overlooking neighbours, the garden offers real privacy.
+    </p>
+                  <a href="#" class="btn btn-primary mb-0">View details</a>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 s_col_no_bgcolor pt16 pb16">
+              <div class="card bg-white h-100">
+                <img class="card-img-top" src="/web/image/website.s_three_columns_default_image_3" alt="" loading="lazy"/>
+                <div class="card-body">
+                  <span class="text-600 font-weight-bold">$455,000</span>
+                  <h3 class="card-title">
+        Paradise Residence
+    </h3>
+                  <p class="card-text">
+        Elegant, modern sophisticated architecture with an impressive in large scale home designed with the finest imported finishes. Pyrgon, marble and wood floors...
+    </p>
+                  <a href="#" class="btn btn-primary mb-0">View details</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_title pb40 pt72" data-vcss="001" data-snippet="s_title" data-name="Title">
+        <div class="container s_allow_columns">
+          <h1 style="text-align: center;">
+            <font style="font-size: 62px;">Your Site Title</font>
+          </h1>
+        </div>
+      </section>
+      <section class="s_masonry_block" data-vcss="001" data-snippet="s_masonry_block" data-name="Masonry">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-6 oe_img_bg text-center pb224 pt224" data-name="Block" style="background-image: url(/web/image/website.s_masonry_block_default_image_1);">
+              <p>
+                <br/>
+              </p>
+            </div>
+            <div class="col-lg-6 s_col_no_resize">
+              <div class="row h-100">
+                <div class="col-lg-6 pt24 pb8 text-center o_cc o_cc2,o_cc1" data-name="Block">
+                  <span class="fa fa-star fa-2x mb-4"/>
+                  <h3>
+        Increased Visibility
+    </h3>
+                  <p>
+        Increase Visitor retention. Customer engagement on a website with virtual tour is 5 times longer compared to a site without it.
+    </p>
+                </div>
+                <div class="col-lg-6 pt24 pb8 text-center o_cc o_cc3,o_cc1" data-name="Block">
+                  <span class="fa fa-tag fa-2x mb-4"/>
+                  <h3>
+        No fixed fees
+    </h3>
+                  <p>
+        At Real Estate Agency we have fixed price fees. This means we only charge when your home sale is confirmed.
+    </p>
+                </div>
+                <div class="col-lg-6 pt24 pb8 text-center o_cc o_cc4,o_cc1" data-name="Block">
+                  <span class="fa fa-camera fa-2x mb-4"/>
+                  <h3>
+        Pro Photo Shoot
+    </h3>
+                  <p>
+        They say an image is worth a thousand words and we know you know how important it is to have the best photography.
+    </p>
+                </div>
+                <div class="col-lg-6 pt24 pb8 text-center o_cc o_cc2,o_cc1" data-name="Block">
+                  <span class="fa fa-check fa-2x mb-4"/>
+                  <h3>
+        Premium Quality
+    </h3>
+                  <p>
+        We are committed to delivering high quality services that enhance your brand by allowing visitors to interact virtually.
+    </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_numbers o_cc o_cc1 pt32 pb56" data-snippet="s_numbers" data-name="Numbers">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-3 text-center pt24 pb24">
+              <span class="s_number display-4">
+        14,000
+    </span>
+              <h6>
+        properties already sold
+    </h6>
+            </div>
+            <div class="col-lg-3 text-center pt24 pb24">
+              <span class="s_number display-4">
+        97%
+    </span>
+              <h6>
+        happy customers
+    </h6>
+            </div>
+            <div class="col-lg-3 text-center pt24 pb24">
+              <span class="s_number display-4">
+        142
+    </span>
+              <h6>
+        amazing agents
+    </h6>
+            </div>
+            <div class="col-lg-3 text-center pt24 pb24">
+              <span class="s_number display-4">
+        100+
+    </span>
+              <h6>
+        offices
+    </h6>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_quotes_carousel_wrapper" data-vxml="001" data-vcss="001" data-snippet="s_quotes_carousel" data-name="Quotes">
+        <div class="s_quotes_carousel s_carousel_default carousel slide o_cc o_cc2" data-interval="10000" id="myQuoteCarousel370224">
+          <ol class="carousel-indicators">
+            <li data-slide-to="0" class="active" data-target="#myQuoteCarousel370224"/>
+            <li data-slide-to="1" data-target="#myQuoteCarousel370224"/>
+            <li data-slide-to="2" data-target="#myQuoteCarousel370224"/>
+          </ol>
+          <div class="carousel-inner">
+            <div class="carousel-item active oe_img_bg o_bg_img_center pt80 pb80" style="background-image: url(&quot;/web/image/website.s_quotes_carousel_demo_image_0&quot;); background-position: 50% 50%;" data-name="Slide">
+              <div class="container">
+                <blockquote class="s_blockquote s_blockquote_classic blockquote mx-auto w-50" data-name="Blockquote">
+                  <i class="fa fa-1x fa-quote-left rounded float-left bg-o-color-2 s_blockquote_icon"/>
+                  <div class="s_blockquote_content o_cc1">
+                    <p>
+        Amazing team! smiling, always nice to talk with, they always have the best advices for you, adapted to your needs!
+    </p>
+                    <footer class="blockquote-footer">
+                      <img src="/web/image/website.s_quotes_carousel_demo_image_3" class="s_blockquote_avatar img rounded-circle mr-2" alt="" loading="lazy"/>
+                      <span class="s_blockquote_author"><b>Jane Doe</b> • Customer, bought a house
+    </span>
+                    </footer>
+                  </div>
+                </blockquote>
+              </div>
+            </div>
+            <div class="carousel-item oe_img_bg o_bg_img_center pt80 pb80" style="background-image: url(&quot;/web/image/website.s_quotes_carousel_demo_image_1&quot;); background-position: 50% 50%;" data-name="Slide">
+              <div class="container">
+                <blockquote class="s_blockquote s_blockquote_classic blockquote mr-auto w-50" data-name="Blockquote">
+                  <i class="fa fa-1x fa-quote-left rounded float-left bg-o-color-2 s_blockquote_icon"/>
+                  <div class="s_blockquote_content o_cc1">
+                    <p>
+        From start to finish, they were extremely professional, friendly, helpful and easy to do business with. Very happy with the experience and the company.
+    </p>
+                    <footer class="blockquote-footer">
+                      <img src="/web/image/website.s_quotes_carousel_demo_image_4" class="s_blockquote_avatar img rounded-circle mr-2" alt="" loading="lazy"/>
+                      <span class="s_blockquote_author"><b>John Doe</b> • Customer, bought an appartement
+    </span>
+                    </footer>
+                  </div>
+                </blockquote>
+              </div>
+            </div>
+            <div class="carousel-item oe_img_bg o_bg_img_center pt80 pb80" style="background-image: url(&quot;/web/image/website.s_quotes_carousel_demo_image_2&quot;); background-position: 50% 50%;" data-name="Slide">
+              <div class="container">
+                <blockquote class="s_blockquote s_blockquote_classic blockquote ml-auto w-50" data-name="Blockquote">
+                  <i class="fa fa-1x fa-quote-left rounded float-left bg-o-color-2 s_blockquote_icon"/>
+                  <div class="s_blockquote_content o_cc1">
+                    <p>
+        Positive energy, great team spirit, hard workers and awesome people! I warmly recommend them!
+    </p>
+                    <footer class="blockquote-footer">
+                      <img src="/web/image/website.s_quotes_carousel_demo_image_5" class="s_blockquote_avatar img rounded-circle mr-2" alt="" loading="lazy"/>
+                      <span class="s_blockquote_author"><b>Iris Doe</b> • Customer, sold an appartement
+    </span>
+                    </footer>
+                  </div>
+                </blockquote>
+              </div>
+            </div>
+          </div>
+          <div class="carousel-control-prev o_not_editable" data-slide="prev" role="img" aria-label="Previous" title="Previous" data-target="#myQuoteCarousel370224">
+            <span class="carousel-control-prev-icon"/>
+            <span class="sr-only">Previous</span>
+          </div>
+          <div class="carousel-control-next o_not_editable" data-slide="next" role="img" aria-label="Next" title="Next" data-target="#myQuoteCarousel370224">
+            <span class="carousel-control-next-icon"/>
+            <span class="sr-only">Next</span>
+          </div>
+        </div>
+      </section>
+    </div>
+  </t>
+</t>
